@@ -29,7 +29,7 @@ const srushti = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,nodejs,express,django,mysql,postgres,git,github,vscode,postman,vercel,react&perline=6" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,nodejs,express,mysql,git,github,vscode,postman,vercel&perline=6" />
 
 </div>
 
