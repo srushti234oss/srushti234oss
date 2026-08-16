@@ -35,18 +35,6 @@ const srushti = {
 
 ---
 
-## 🎮 Developer Journey
-
-```text
-Frontend      ██████████░░░░░░░ 60%
-Backend       ████████░░░░░░░░░ 50%
-Databases     ███████░░░░░░░░░░ 45%
-DSA           ██████░░░░░░░░░░░ 40%
-System Design ███░░░░░░░░░░░░░░ 20%
-```
-
----
-
 
 
 ## 📈 GitHub Activity
@@ -61,11 +49,6 @@ System Design ███░░░░░░░░░░░░░░ 20%
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srushti234oss&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
