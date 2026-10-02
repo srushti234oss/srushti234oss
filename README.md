@@ -48,6 +48,38 @@ const srushti = {
 </div>
 
 ---
+## 🚀 Featured Projects
+
+### 🎯 OpportuneAI
+AI-powered student opportunity recommendation platform that matches students with internships, scholarships, hackathons, and fellowships using semantic similarity and skill-gap analysis.
+
+**Tech Stack:** Django, Python, PostgreSQL, Sentence-BERT, HTML, CSS, JavaScript
+
+🔗 Repository: [OpportuneAI](https://github.com/srushti234oss/OpportuneAI)
+
+---
+
+### 🌐 CampusVerse
+A student community and blogging platform that enables knowledge sharing, club interactions, and senior-junior networking within colleges.
+
+**Tech Stack:** Django, PostgreSQL, HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🤖 RAG-Based College Services Chatbot
+An AI chatbot that answers college-related queries using Retrieval-Augmented Generation (RAG), PDF document retrieval, and Gemini AI.
+
+**Tech Stack:** Python, ChromaDB, Gemini API, Gradio, Google Colab
+
+---
+
+### 🚦 Smart Traffic Management System
+An Arduino-based intelligent traffic control system that dynamically adjusts signal timings using IR sensors and prioritizes emergency vehicles.
+
+**Tech Stack:** Arduino UNO, C++, IR Sensors, LEDs, Sound Sensor
+
+---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srushti234oss&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
